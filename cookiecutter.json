@@ -1,0 +1,5 @@
+{
+    "project_name": "scrapy_project",
+    "spider_name": "spider_name",
+    "scrapy_site": "Only domain, for example: app.core-apps.com"
+}
